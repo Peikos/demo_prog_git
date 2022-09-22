@@ -1,3 +1,11 @@
+
+
+
+# In Git Bash
+# git config --global init.defaultBranch main
+
+
+
 # This is a sample Python script.
 
 
